@@ -1,0 +1,32 @@
+﻿categoria,variable,n,pct_pea,tasa_adecuado
+Hombre,sexo,11835.0,64.3,44.6
+Mujer,sexo,7690.0,35.7,36.0
+15-17,tramo_edad,79.0,0.8,0.7
+18-24,tramo_edad,2506.0,13.6,32.1
+25-34,tramo_edad,4519.0,23.8,49.8
+35-44,tramo_edad,4238.0,23.8,46.1
+45-54,tramo_edad,4076.0,18.8,47.0
+55-64,tramo_edad,2783.0,13.4,33.2
+65+,tramo_edad,1324.0,5.8,18.3
+Cónyuge,parentesco,3021.0,15.0,39.1
+Hijo/a,parentesco,5441.0,25.8,41.7
+Jefe,parentesco,8752.0,46.7,43.7
+Otros,parentesco,2311.0,12.6,36.0
+Afrodescendiente,etnia,434.0,2.5,41.2
+Mestizo,etnia,18208.0,91.2,42.8
+Montuvio,etnia,565.0,4.7,18.3
+Otros,etnia,318.0,1.6,36.7
+Básica,instruccion,5335.0,36.1,26.4
+Media/Bachillerato,instruccion,8269.0,43.2,45.4
+Ninguno,instruccion,248.0,1.8,11.1
+Superior con título,instruccion,3929.0,12.8,70.3
+Superior sin título,instruccion,1744.0,6.0,52.3
+Grado,tit_nivel,2769.0,8.9,68.0
+Postgrado,tit_nivel,501.0,1.4,89.8
+Sin título superior,tit_nivel,15596.0,87.2,37.3
+Tecnológico,tit_nivel,544.0,2.2,70.1
+Técnico,tit_nivel,115.0,0.4,54.8
+Conurbación,zona_amp,1293.0,10.4,45.1
+Guayaquil,zona_amp,16147.0,61.7,49.4
+Resto rural,zona_amp,1005.0,7.4,19.5
+Resto urbano,zona_amp,1080.0,20.4,23.9

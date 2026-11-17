@@ -1,0 +1,46 @@
+Variable,Categoría,% población,SHAP medio
+Bloque educación,Ninguno,2.056,0.78
+Bloque educación,Básica,35.304,0.633
+Bloque educación,Media/Bachillerato,42.387,-0.15
+Bloque educación,Superior sin título,5.47,-0.418
+Bloque educación,Superior con título,14.783,-1.033
+asiste_clases,2.0,96.182,0.0
+asiste_clases,1.0,3.818,-0.005
+etnia,Montuvio,7.902,0.194
+etnia,Afrodescendiente,0.91,0.062
+etnia,Mestizo,89.387,-0.012
+etnia,Otros,1.801,-0.016
+mujer,2.0,35.48,0.367
+mujer,1.0,64.52,-0.21
+p06,4.0,2.797,0.213
+p06,6.0,22.06,0.153
+p06,2.0,17.899,0.129
+p06,3.0,1.784,0.113
+p06,5.0,36.315,-0.095
+p06,1.0,19.146,-0.17
+p15aa,1.0,58.584,0.055
+p15aa,3.0,1.656,0.051
+p15aa,2.0,39.759,-0.103
+parentesco,Cónyuge,18.05,0.05
+parentesco,Otros,9.882,0.044
+parentesco,Hijo/a,24.832,0.03
+parentesco,Jefe,47.236,-0.062
+tit_campo,TIC,1.566,0.037
+tit_campo,Artes y humanidades,0.278,0.03
+tit_campo,Ciencias sociales y derecho,1.254,0.016
+tit_campo,Administración,3.525,0.006
+tit_campo,Sin título superior,85.217,0.005
+tit_campo,Otros campos,0.16,-0.005
+tit_campo,Servicios,0.509,-0.006
+tit_campo,Ingeniería,2.005,-0.038
+tit_campo,Educación,3.044,-0.066
+tit_campo,Salud,2.442,-0.069
+tit_nivel,Técnico,0.301,0.026
+tit_nivel,Sin título superior,85.217,0.017
+tit_nivel,Tecnológico,1.759,-0.056
+tit_nivel,Grado,11.227,-0.092
+tit_nivel,Postgrado,1.496,-0.381
+zona_amp,Resto rural,10.269,0.591
+zona_amp,Resto urbano,19.176,0.561
+zona_amp,Guayaquil,58.065,-0.18
+zona_amp,Conurbación,12.49,-0.206

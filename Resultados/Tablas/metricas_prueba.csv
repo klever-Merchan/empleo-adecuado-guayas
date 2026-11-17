@@ -1,0 +1,6 @@
+,XGBoost,Logística
+AUC,0.767,0.751
+Precision,0.726,0.718
+Recall,0.765,0.802
+F1,0.745,0.758
+Prec. decil superior,0.923,0.94

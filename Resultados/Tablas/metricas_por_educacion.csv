@@ -1,0 +1,6 @@
+Grupo,Registros,Prevalencia,AUC XGB,AUC Log,Precision XGB,Precision Log,Recall XGB,Recall Log,F1 XGB,F1 Log,Prec. decil XGB,Prec. decil Log
+Ninguno,47,0.955,0.6,0.657,0.969,0.955,0.995,1.0,0.982,0.977,1.0,1.0
+Básica,964,0.764,0.711,0.664,0.785,0.791,0.874,0.933,0.827,0.857,0.954,0.947
+Media/Bachillerato,1564,0.541,0.705,0.708,0.658,0.655,0.761,0.771,0.705,0.709,0.852,0.809
+Superior sin título,333,0.428,0.591,0.556,0.509,0.457,0.452,0.459,0.479,0.458,0.588,0.575
+Superior con título,803,0.276,0.709,0.61,0.694,0.447,0.143,0.214,0.237,0.289,0.766,0.478
