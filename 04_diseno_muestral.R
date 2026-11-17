@@ -1,5 +1,5 @@
 # Diseño muestral ENEMDU - logística inferencial (capstone)
-setwd("C:/Users/usuar/Documents/capstone")
+# setwd("ruta/de/la/carpeta/del/proyecto")  # cambiar por la carpeta donde están los archivos
 library(survey)
 datos <- read.csv("base_logistica_r.csv")
 
